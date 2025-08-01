@@ -37,7 +37,7 @@ const Home = () => {
 
             <section className='bg-gradient-to-r from-purple-400 to-purple-950 text-white text-center my-8'>
                 <div className='container mx-auto py-40'>
-                    <h2 className='text-purple-50 mb-4 text-3xl font-bold'>About Us</h2>
+                    <h2 className='text-purple-50 mb-4 text-3xl font-bold'>About Us na ja</h2>
                     <p className='text-gray-200 text-lg'>We are passionate about showcasing beautiful card designs. Our collection is curated to inspire creativity and provide a platform for designers to share their work.</p>
                     <p className='text-gray-200 text-lg'>Join us in exploring the world of card designs and discover the artistry behind each creation.</p>
                     <br />
